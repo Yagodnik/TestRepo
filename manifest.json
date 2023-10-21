@@ -3,6 +3,6 @@
         "version": "1",
         "description": "First version",
         "changelog": "Just install this",
-        "win-installer": "v1.0/data.json"
+        "win-installer": "v1.0/installer.exe"
     }
 ]
